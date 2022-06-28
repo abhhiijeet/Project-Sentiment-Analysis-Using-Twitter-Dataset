@@ -1,1 +1,1 @@
-# Fourth Semester Project work on Sentiment Analysis Using Twitter Dataset. This project focuses on extracting data from twitter based on keywords used and will check for the polarity of the particular keyword. Alongside polarity,it also showcases the tweets that fall under the category.
+#  Project work on Sentiment Analysis Using Twitter Dataset. This project focuses on extracting data from twitter based on keywords used and will check for the polarity of the particular keyword. Alongside polarity,it also showcases the tweets that fall under the category.
